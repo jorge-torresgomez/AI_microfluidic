@@ -1,0 +1,2 @@
+width_cylinder_1+r_in_1*sin(angle_1_rad) -(r_in_1*(1-cos(angle_1_rad))) off
+width_cylinder_1+r_out_1*sin(angle_1_rad) (r_out_1*(1-cos(angle_1_rad)))-r_in_1 off

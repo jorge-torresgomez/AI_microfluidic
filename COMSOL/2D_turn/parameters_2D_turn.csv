@@ -1,0 +1,7 @@
+height_cylinder_in_1,20,Height of the cilinder input 1
+radius_cylinder_1,5,Radius of the cilinder 1
+angle_turn_1,45,Angle for turn 1. The angle only accepts positive values.
+height_cylinder_out_1,10,Height of the cilinder output 1
+p0,20*133.322,
+c_Na,10,concentration of species.
+D_Na,1.33e-9[m^2/s],Diffusion coeff of Na in H2O.
