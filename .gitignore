@@ -6,3 +6,26 @@ COMSOL/2D_turn_chemical_reaction/2D_turn_stationary.mph.lock
 COMSOL/2D_turn_chemical_reaction/2D_turn_chemıical_reaction.mph
 COMSOL/2D_turn/figures/geometry.mphtxt
 COMSOL/2D_turn_chemical_reaction/dataset/geometry.mphtxt
+dataset_Glucose/Replace-BG Dataset/ReadMe_BasalData.rtf
+dataset_Glucose/Replace-BG Dataset/ReadMe.rtf
+dataset_Glucose/Replace-BG Dataset/Data Tables/HDeviceCGM.txt
+dataset_Glucose/Replace-BG Dataset/CRFs/crfUnsheduledVisit.pdf
+dataset_Glucose/Replace-BG Dataset/CRFs/crfScreening.pdf
+dataset_Glucose/Replace-BG Dataset/CRFs/crfRunInVisitStatus.pdf
+dataset_Glucose/Replace-BG Dataset/CRFs/crfRandomization.pdf
+dataset_Glucose/Replace-BG Dataset/CRFs/crfQuestHypoUnaware.pdf
+dataset_Glucose/Replace-BG Dataset/CRFs/crfQuestHypoFear.pdf
+dataset_Glucose/Replace-BG Dataset/CRFs/crfQuestDiabTech.pdf
+dataset_Glucose/Replace-BG Dataset/CRFs/crfPostRandPtFinalStatus.pdf
+dataset_Glucose/Replace-BG Dataset/CRFs/crfMedication.pdf
+dataset_Glucose/Replace-BG Dataset/CRFs/crfMedicalCondition.pdf
+dataset_Glucose/Replace-BG Dataset/CRFs/crfLocalHbA1c.pdf
+dataset_Glucose/Replace-BG Dataset/CRFs/crfInsulin.pdf
+dataset_Glucose/Replace-BG Dataset/CRFs/crfHypoEvent.pdf
+dataset_Glucose/Replace-BG Dataset/CRFs/crfFollowUp.pdf
+dataset_Glucose/Replace-BG Dataset/CRFs/crfDKAEvent.pdf
+dataset_Glucose/Replace-BG Dataset/CRFs/crfDeviceProblems.pdf
+dataset_Glucose/Replace-BG Dataset/CRFs/crfDeviceDtTmVer.pdf
+dataset_Glucose/Replace-BG Dataset/CRFs/crfCompUnblindCGM.pdf
+dataset_Glucose/Replace-BG Dataset/CRFs/crfAdvEvent.pdf
+dataset_Glucose/Replace-BG Dataset/CRFs/cftInitialStudyCGM.pdf
